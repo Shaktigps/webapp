@@ -33,6 +33,7 @@ stage ('Deploy-To-Tomcat') {
             sh 'scp -o StrictHostKeyChecking=no target/*.war ubuntu@65.2.69.29:/home/ubuntu/apache-tomcat-9.0.53/webapps/webapp.war'
          }
        }
+       
    }
 
   }
