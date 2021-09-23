@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Devsecops Course</title>
+    <title>Devsecops Testing Application 1</title>
 
 
     <!-- Custom styles for this template -->
@@ -61,18 +61,18 @@
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <h2>Agile</h2>
+            <p>The motivations for what has become modern DevOps and several standard DevOps practices such as automated build and test, continuous integration, and continuous delivery originated in the Agile world, which dates (informally) to the 1990s, and formally to 2001. Agile development teams using methods such as Extreme Programming couldn't "satisfy the customer through early and continuous delivery of valuable software"[11] unless they subsumed the operations / infrastructure responsibilities associated with their applications, many of which they automated. Because Scrum emerged as the dominant Agile framework in the early 2000s and it omitted the engineering practices that were part of many Agile teams, the movement to automate operations / infrastructure functions splintered from Agile and expanded into what has become modern DevOps. Today, DevOps focuses on the deployment of developed software, whether it is developed via Agile or other methodologies. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <h2>CI/CD</h2>
+            <p>Automation is a core principle for achieving DevOps success and CI/CD is a critical component.CI/CD comprises of continuous integration (CI) and continuous delivery (CD), or continuous deployment (CD). Used together, the three processes automate build, testing, and deployment so DevOps teams can ship code changes faster and more reliably. When referring to CI/CD, the “CD” being referenced is usually continuous delivery, not continuous deployment. Continuous delivery and other CI/CD processes are focused on automating software delivery tasks, while DevOps also focuses on the organizational change to support great collaboration between the many functions involved. Both share a common background in agile methods and lean thinking, prioritizing small and frequent changes with focused value to the end customer. This ensures two things: Software is always in a releasable state throughout its lifecycle, which makes it cheaper and less risky to deliver the software. Plus, improved collaboration and communication between and within teams helps achieve faster time to market, with reduced risks. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+            <h2>Building a DevOps culture</h2>
+            <p>Organizational culture is a strong predictor of IT and organizational performance. Cultural practices such as information flow, collaboration, shared responsibilities, learning from failures and new ideas are central to DevOps. Team-building and other employee engagement activities are often used to create an environment that fosters this communication and cultural change within an organization. DevOps as a service approach allows developers and operations teams to take greater control of their applications and infrastructure without hindering speed. It also transfers the onus of owning a problem on to the development team, making them much more careful in their stride.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
